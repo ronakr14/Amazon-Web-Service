@@ -31,6 +31,7 @@ plugins:
   - mkdocstrings
 
 nav:
+  - Cloud Technologies Home: https://ronakr14.github.io/Cloud-Technologies/
   - AWS Home: index.md
   - Quick Guide: quick_guide.md
 
